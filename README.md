@@ -1,1 +1,1 @@
-Quistarting the react learning.
+Quiqstarting the react learning.
